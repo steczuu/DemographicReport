@@ -1,1 +1,1 @@
-Data in this repository is fictional and is intended for educational and testing purposes only. Any resemblance to real persons, job titles, or salaries is purely coincidental.
+The data used in this repository is entirely fictional and randomly generated. It is intended solely for educational and illustrative purposes. The dataset does not represent real individuals, organizations, or events, and any resemblance to actual data is purely coincidental.
